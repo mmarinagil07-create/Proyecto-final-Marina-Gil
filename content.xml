@@ -1,0 +1,1257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507171633IAJEHM</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605071716333KQYPF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Proyecto final: Exploradores de datos</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Marina Gil</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778165564006</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-movlv62v-ka323lwfq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movlv62x-c32pz4lwr</odePageId>
+  <odeParentPageId>page-movlv62v-ka323lwfq</odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movlv62x-c32pz4lwr</odePageId>
+      <odeBlockId>block-1778085075657-0dwfozzmb</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movlv62x-c32pz4lwr</odePageId>
+          <odeBlockId>block-1778085075657-0dwfozzmb</odeBlockId>
+          <odeIdeviceId>idevice-1778085075655-nr7e083r7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><strong>¡¡Bienvenidos y bienvenidas</strong> a nuestro proyecto!!</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En este proyecto vamos a convertirnos en pequeños investigadores. </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Aprenderemos a crear encuestas, recoger datos, analizarlos y presentar nuestras conclusiones utilizando herramientas digitales.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Trabajaremos en equipo y utilizaremos aplicaciones como Google Forms, hojas de cálculo y Canva.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">¿Estás preparado/a para investigar tu entorno?</span></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778085075655-nr7e083r7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><strong>¡¡Bienvenidos y bienvenidas</strong> a nuestro proyecto!!</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">En este proyecto vamos a convertirnos en pequeños investigadores. </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Aprenderemos a crear encuestas, recoger datos, analizarlos y presentar nuestras conclusiones utilizando herramientas digitales.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Trabajaremos en equipo y utilizaremos aplicaciones como Google Forms, hojas de cálculo y Canva.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">¿Estás preparado/a para investigar tu entorno?</span></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movlv632-5hgsx001m</odePageId>
+  <odeParentPageId>page-movlv62v-ka323lwfq</odeParentPageId>
+  <pageName>Nuestro proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movlv632-5hgsx001m</odePageId>
+      <odeBlockId>block-1778085174586-558wml9t8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movlv632-5hgsx001m</odePageId>
+          <odeBlockId>block-1778085174586-558wml9t8</odeBlockId>
+          <odeIdeviceId>idevice-1778085174583-jv73raw43</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Título: </strong>Exploradores de datos: investigamos nuestro entorno cercano.</li>
+</ul>
+<p></p>
+<ul>
+<li><strong>Centro de interés o temática</strong><br />El proyecto se centra en la recogida, organización, representación e interpretación de datos del entorno cercano del alumnado, integrando el uso de herramientas digitales de forma progresiva, autónoma y responsable.</li>
+</ul>
+<p></p>
+<ul>
+<li><strong>Nivel al que va dirigido: </strong>4º de Educación Primaria</li>
+</ul>
+<p></p>
+<ul>
+<li><strong>Temporalización aproximada</strong><br />La propuesta se desarrollará a lo largo de 2 semanas, con una duración aproximada de 10 sesiones.</li>
+</ul>
+<p></p>
+<ul>
+<li><strong>Materias implicadas</strong><br />- Matemáticas (área principal)<br />- Lengua Castellana y Literatura (expresión oral y escrita)<br />- Conocimiento del Medio Natural, Social y Cultural (contexto y análisis del entorno)</li>
+</ul>
+<p></p>
+<ul>
+<li><strong>Idioma:</strong> Castellano</li>
+</ul>
+<p></p>
+<ul>
+<li><strong>Descripción general del aprendizaje</strong></li>
+</ul>
+<p>A través de este proyecto, el alumnado desarrollará habilidades relacionadas con el tratamiento de la información, la competencia matemática y la competencia digital, partiendo de situaciones reales y cercanas.</p>
+<p>El alumnado llevará a cabo una investigación en la que deberá:</p>
+<p>- Formular preguntas sobre su entorno.<br />- Recoger datos mediante encuestas (utilizando herramientas digitales sencillas).<br />- Organizar la información en tablas.<br />- Representar los datos mediante gráficos (especialmente diagramas de barras).<br />- Interpretar los resultados obtenidos.<br />- Elaborar y exponer una presentación digital con sus conclusiones.</p>
+<p>Además, se incorporará una fase inicial de alfabetización digital, en la que el alumnado se familiarizará con las herramientas antes de utilizarlas con fines académicos, favoreciendo así un uso más eficaz y autónomo.</p>
+<p>Durante el desarrollo del proyecto se trabajará de forma cooperativa, con roles definidos dentro de cada grupo, incluyendo la figura de responsable tecnológico, con el fin de mejorar la organización y la gestión de los recursos digitales.</p>
+<ul>
+<li><strong>Justificación</strong></li>
+</ul>
+<p>El uso de metodologías activas apoyadas en herramientas digitales favorece la motivación, la participación activa y el aprendizaje significativo del alumnado. Por ello, se plantea una propuesta que mantiene estos elementos positivos, pero incorporando mejoras en la planificación y en el acompañamiento docente.</p>
+<p>En este sentido, el proyecto incluye:</p>
+<p>- Una fase previa de entrenamiento digital, que permitirá al alumnado adquirir seguridad en el uso de las herramientas antes de aplicarlas a tareas académicas.<br />- La organización del trabajo mediante roles cooperativos definidos, incluyendo un responsable tecnológico, fomentando la corresponsabilidad y el trabajo en equipo.<br />- La implementación de protocolos sencillos de resolución de problemas técnicos, promoviendo que el alumnado actúe de manera autónoma ante posibles incidencias.<br />- Estrategias para favorecer la autonomía y la autorregulación, reduciendo progresivamente la intervención directa del docente.<br />- La incorporación de aspectos relacionados con el uso responsable de la tecnología, como la protección de datos personales, el respeto a las normas de uso y la equidad en el acceso a los recursos digitales.</p>
+<p>Asimismo, esta propuesta responde a un enfoque metodológico activo, inclusivo y competencial, en el que el alumnado es protagonista de su aprendizaje, desarrollando no solo contenidos matemáticos, sino también habilidades clave como el pensamiento crítico, la gestión de la información y la competencia digital.</p>
+<p>En definitiva, se trata de una propuesta que recoge los aspectos positivos de la experiencia previa y los mejora, con el objetivo de favorecer un desarrollo progresivo de la competencia digital del alumnado, capacitándose para actuar de manera autónoma, crítica y eficaz en entornos digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778085174583-jv73raw43","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Título: </strong>Exploradores de datos: investigamos nuestro entorno cercano.</li>\n</ul>\n<p></p>\n<ul>\n<li><strong>Centro de interés o temática</strong><br />El proyecto se centra en la recogida, organización, representación e interpretación de datos del entorno cercano del alumnado, integrando el uso de herramientas digitales de forma progresiva, autónoma y responsable.</li>\n</ul>\n<p></p>\n<ul>\n<li><strong>Nivel al que va dirigido: </strong>4º de Educación Primaria</li>\n</ul>\n<p></p>\n<ul>\n<li><strong>Temporalización aproximada</strong><br />La propuesta se desarrollará a lo largo de 2 semanas, con una duración aproximada de 10 sesiones.</li>\n</ul>\n<p></p>\n<ul>\n<li><strong>Materias implicadas</strong><br />- Matemáticas (área principal)<br />- Lengua Castellana y Literatura (expresión oral y escrita)<br />- Conocimiento del Medio Natural, Social y Cultural (contexto y análisis del entorno)</li>\n</ul>\n<p></p>\n<ul>\n<li><strong>Idioma:</strong> Castellano</li>\n</ul>\n<p></p>\n<ul>\n<li><strong>Descripción general del aprendizaje</strong></li>\n</ul>\n<p>A través de este proyecto, el alumnado desarrollará habilidades relacionadas con el tratamiento de la información, la competencia matemática y la competencia digital, partiendo de situaciones reales y cercanas.</p>\n<p>El alumnado llevará a cabo una investigación en la que deberá:</p>\n<p>- Formular preguntas sobre su entorno.<br />- Recoger datos mediante encuestas (utilizando herramientas digitales sencillas).<br />- Organizar la información en tablas.<br />- Representar los datos mediante gráficos (especialmente diagramas de barras).<br />- Interpretar los resultados obtenidos.<br />- Elaborar y exponer una presentación digital con sus conclusiones.</p>\n<p>Además, se incorporará una fase inicial de alfabetización digital, en la que el alumnado se familiarizará con las herramientas antes de utilizarlas con fines académicos, favoreciendo así un uso más eficaz y autónomo.</p>\n<p>Durante el desarrollo del proyecto se trabajará de forma cooperativa, con roles definidos dentro de cada grupo, incluyendo la figura de responsable tecnológico, con el fin de mejorar la organización y la gestión de los recursos digitales.</p>\n<ul>\n<li><strong>Justificación</strong></li>\n</ul>\n<p>El uso de metodologías activas apoyadas en herramientas digitales favorece la motivación, la participación activa y el aprendizaje significativo del alumnado. Por ello, se plantea una propuesta que mantiene estos elementos positivos, pero incorporando mejoras en la planificación y en el acompañamiento docente.</p>\n<p>En este sentido, el proyecto incluye:</p>\n<p>- Una fase previa de entrenamiento digital, que permitirá al alumnado adquirir seguridad en el uso de las herramientas antes de aplicarlas a tareas académicas.<br />- La organización del trabajo mediante roles cooperativos definidos, incluyendo un responsable tecnológico, fomentando la corresponsabilidad y el trabajo en equipo.<br />- La implementación de protocolos sencillos de resolución de problemas técnicos, promoviendo que el alumnado actúe de manera autónoma ante posibles incidencias.<br />- Estrategias para favorecer la autonomía y la autorregulación, reduciendo progresivamente la intervención directa del docente.<br />- La incorporación de aspectos relacionados con el uso responsable de la tecnología, como la protección de datos personales, el respeto a las normas de uso y la equidad en el acceso a los recursos digitales.</p>\n<p>Asimismo, esta propuesta responde a un enfoque metodológico activo, inclusivo y competencial, en el que el alumnado es protagonista de su aprendizaje, desarrollando no solo contenidos matemáticos, sino también habilidades clave como el pensamiento crítico, la gestión de la información y la competencia digital.</p>\n<p>En definitiva, se trata de una propuesta que recoge los aspectos positivos de la experiencia previa y los mejora, con el objetivo de favorecer un desarrollo progresivo de la competencia digital del alumnado, capacitándose para actuar de manera autónoma, crítica y eficaz en entornos digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movlv634-nomk7l8tx</odePageId>
+  <odeParentPageId>page-movlv62v-ka323lwfq</odeParentPageId>
+  <pageName>Protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movlv634-nomk7l8tx</odePageId>
+      <odeBlockId>block-1778085636471-hhj090h30</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movlv634-nomk7l8tx</odePageId>
+          <odeBlockId>block-1778085636471-hhj090h30</odeBlockId>
+          <odeIdeviceId>idevice-1778085636470-wf1t2hzi7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Tarea 2.3. Infografía c_page-0001.jpg" width="1366" height="965" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778085636470-wf1t2hzi7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Tarea 2.3. Infografía c_page-0001.jpg\" width=\"1366\" height=\"965\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movlv633-agmm10m5r</odePageId>
+  <odeParentPageId>page-movlv62v-ka323lwfq</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movlv633-agmm10m5r</odePageId>
+      <odeBlockId>block-1778166473279-aa7dbyv7l</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movlv633-agmm10m5r</odePageId>
+          <odeBlockId>block-1778166473279-aa7dbyv7l</odeBlockId>
+          <odeIdeviceId>idevice-1778166473276-5g2al8xyk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/GUIA DIDACTICA_page-0001.jpg" width="1366" height="966" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778166473276-5g2al8xyk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/GUIA DIDACTICA_page-0001.jpg\" width=\"1366\" height=\"966\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movlv635-25u0vu64c</odePageId>
+  <odeParentPageId>page-movlv62v-ka323lwfq</odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movlv635-25u0vu64c</odePageId>
+      <odeBlockId>block-1778085865506-mlmg83tuj</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movlv635-25u0vu64c</odePageId>
+          <odeBlockId>block-1778085865506-mlmg83tuj</odeBlockId>
+          <odeIdeviceId>idevice-1778085865503-83xt5t4p1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<table border="1" style="width: 100%; height: 345px;">
+<tbody>
+<tr style="height: 180px;">
+<td style="width: 19.963%; height: 180px; text-align: center;">
+<p><br /></p>
+<p><br /></p>
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">TAREA  </span></span></span></span></span></span></span></span></strong></p>
+<p><br /></p>
+<p><br /></p>
+</td>
+<td style="width: 34.1959%; height: 180px; text-align: center;">
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">SABERES BÁSICOS </span></span></span></span></span></span></span></span></strong></p>
+<p><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"></span></span></span></span></span></span></span></span></strong><br /></p>
+</td>
+<td style="width: 15.8965%; height: 180px; text-align: center;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">AGRUPAMIENTO</span></span></span></span></span></span></span></span></strong></td>
+<td style="width: 12.939%; height: 180px; text-align: center;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">TIEMPO </span></span></span></span></span></span></span></span></strong><br /><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">APROXIMADO</span></span></span></span></span></span></span></span></strong></td>
+<td style="width: 16.9131%; height: 180px; text-align: center;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">HERRAMIENTA QUE </span></span></span></span></span></span></span></span></strong><br /><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">SE LE SUGERIRÁ AL </span></span></span></span></span></span></span></span></strong><br /><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">ALUMNADO</span></span></span></span></span></span></span></span></strong></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.963%; height: 33px;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">1. Planteamiento del </span></span></span></span></span></span></span></span></strong><br /><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">proyecto y formulación </span></span></span></span></span></span></span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">de preguntas:</span></span></span></span></span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Lluvia de </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">ideas sobre el entorno </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">cercano y elaboración de </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">preguntas de </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">investigación en grupo.</span></span></span></span></span></span></span></span></td>
+<td style="width: 34.1959%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">MAT.2.E.1.2.Estrategias </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">sencillas para la recogida, </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">clasificación y organización de </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">datos cualitativos o </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">cuantitativos discretos en </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">muestras pequeñas mediante </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">calculadora y aplicaciones </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">informáticas sencillas. </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Frecuencia absoluta: </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">interpretación.</span></span></span></span></span></span></span></span></td>
+<td style="width: 15.8965%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Gran grupo / </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Pequeños grupos</span></span></span></span></span></span></span></span></td>
+<td style="width: 12.939%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">1 sesión </span></span></span></span></span></span></span></span></td>
+<td style="width: 16.9131%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Pizarra digital / Padlet</span></span></span></span></span></span></span></span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.963%; height: 33px;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">2. Alfabetización digital y </span></span></span></span></span></span></span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">diseño de la encuesta:</span></span></span></span></span></span></strong> </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Uso básico de </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">herramientas digitales y creación de encuestas </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">sencillas respetando </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">normas de uso </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">responsable.</span></span></span></span></span></span></span></span></td>
+<td style="width: 34.1959%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">MAT.2.E.1.3. Gráficos </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">estadísticos sencillos (diagrama </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">de barras y pictogramas) para </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">representar datos seleccionando el más </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">conveniente, mediante </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">recursos tradicionales y </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">aplicaciones informáticas </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">sencillas.</span></span></span></span></span></span></span></span></td>
+<td style="width: 15.8965%; height: 33px; text-align: left;">
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"></span></span><br /></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"></span></span><br /></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Pequeños grupos </span></span></span></span></span></span></span></span></p>
+<p><br /></p>
+</td>
+<td style="width: 12.939%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">2 sesiones</span></span></span></span></span></span></span></span></td>
+<td style="width: 16.9131%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Formularios de Google / </span></span></span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Formularios de Microsoft</span></span></span></span></span></span></span></span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.963%; height: 33px;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">3. Recogida y registro de </span></span></span></span></span></span></span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">datos:</span></span></span></span></span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Realización de </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">encuestas y registro </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">automático de la </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">información.</span></span></span></span></span></span></span></span></td>
+<td style="width: 34.1959%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">MAT.2.E.1.2 Estrategias sencillas para la recogida, </span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">clasificación y organización de datos cualitativos o cuantitativos discretos en muestras pequeñas mediante calculadora y aplicaciones informáticas sencillas. Frecuencia absoluta: interpretación.</span></span></span></span></span></span></td>
+<td style="width: 15.8965%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Pequeños grupos  </span></span></span></span></span></span></td>
+<td style="width: 12.939%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">2 sesiones</span></span></span></span></span></span></td>
+<td style="width: 16.9131%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Tabletas / Ordenadores</span></span></span></span></span></span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.963%; height: 33px;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">4. Organización de datos </span></span></span></span></span></span></span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">en tablas:</span></span></span></span></span></span></strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Clasificación y </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">organización de los datos </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">obtenidos en tablas </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">sencillas. </span></span></span></span></span></span></span></span><br /><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Representación gráfica e </span></span></span></span></span></span></span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">interpretación:</span></span></span></span></span></span></strong> </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Elaboración de gráficos de </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">barras y análisis de </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">resultados.</span></span></span></span></span></span></span></span></td>
+<td style="width: 34.1959%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">MAT.2.E.1.1. Gráficos estadísticos de la vida cotidiana (pictogramas, gráficas de barras, histogramas, etc.): lectura e interpretación.</span></span></span></span></span></span></td>
+<td style="width: 15.8965%; height: 33px; text-align: left;">
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Pequeños grupos</span></span></span></span></span></span></p>
+<p><br /></p>
+</td>
+<td style="width: 12.939%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">3 sesiones</span></span></span></span></span></span></td>
+<td style="width: 16.9131%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Hojas de cálculo </span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">(Google Sheets / Excel) </span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Canva</span></span></span></span></span></span></td>
+</tr>
+<tr style="height: 33px;">
+<td style="width: 19.963%; height: 33px;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">5. Elaboración y exposición </span></span></span></span></span></span></span></span></strong><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><strong><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">del producto final:</span></span></span></span></span></span></strong> </span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"> Creación de una </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">presentación digital y </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">exposición oral de </span></span></span></span></span></span></span></span><br /><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">conclusiones.</span></span></span></span></span></span></span></span></td>
+<td style="width: 34.1959%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">MAT.2.E.1.5. Comparación </span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">gráfica de dos conjuntos de </span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">datos para establecer </span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">relaciones y extraer </span></span></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">conclusiones.</span></span></span></span></span></span></td>
+<td style="width: 15.8965%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Pequeños grupos </span></span></span></span></span></span></td>
+<td style="width: 12.939%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">2 sesiones</span></span></span></span></span></span></td>
+<td style="width: 16.9131%; height: 33px; text-align: left;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Canva / PowerPoint</span></span></span></span></span></span></td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778085865503-83xt5t4p1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<table border=\"1\" style=\"width: 100%; height: 345px;\">\n<tbody>\n<tr style=\"height: 180px;\">\n<td style=\"width: 19.963%; height: 180px; text-align: center;\">\n<p><br /></p>\n<p><br /></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">TAREA  </span></span></span></span></span></span></span></span></strong></p>\n<p><br /></p>\n<p><br /></p>\n</td>\n<td style=\"width: 34.1959%; height: 180px; text-align: center;\">\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">SABERES BÁSICOS </span></span></span></span></span></span></span></span></strong></p>\n<p><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"></span></span></span></span></span></span></span></span></strong><br /></p>\n</td>\n<td style=\"width: 15.8965%; height: 180px; text-align: center;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">AGRUPAMIENTO</span></span></span></span></span></span></span></span></strong></td>\n<td style=\"width: 12.939%; height: 180px; text-align: center;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">TIEMPO </span></span></span></span></span></span></span></span></strong><br /><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">APROXIMADO</span></span></span></span></span></span></span></span></strong></td>\n<td style=\"width: 16.9131%; height: 180px; text-align: center;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">HERRAMIENTA QUE </span></span></span></span></span></span></span></span></strong><br /><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">SE LE SUGERIRÁ AL </span></span></span></span></span></span></span></span></strong><br /><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">ALUMNADO</span></span></span></span></span></span></span></span></strong></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.963%; height: 33px;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">1. Planteamiento del </span></span></span></span></span></span></span></span></strong><br /><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">proyecto y formulación </span></span></span></span></span></span></span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">de preguntas:</span></span></span></span></span></span></strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Lluvia de </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">ideas sobre el entorno </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">cercano y elaboración de </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">preguntas de </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">investigación en grupo.</span></span></span></span></span></span></span></span></td>\n<td style=\"width: 34.1959%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">MAT.2.E.1.2.Estrategias </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">sencillas para la recogida, </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">clasificación y organización de </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">datos cualitativos o </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">cuantitativos discretos en </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">muestras pequeñas mediante </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">calculadora y aplicaciones </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">informáticas sencillas. </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Frecuencia absoluta: </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">interpretación.</span></span></span></span></span></span></span></span></td>\n<td style=\"width: 15.8965%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Gran grupo / </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Pequeños grupos</span></span></span></span></span></span></span></span></td>\n<td style=\"width: 12.939%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">1 sesión </span></span></span></span></span></span></span></span></td>\n<td style=\"width: 16.9131%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Pizarra digital / Padlet</span></span></span></span></span></span></span></span></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.963%; height: 33px;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">2. Alfabetización digital y </span></span></span></span></span></span></span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">diseño de la encuesta:</span></span></span></span></span></span></strong> </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Uso básico de </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">herramientas digitales y creación de encuestas </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">sencillas respetando </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">normas de uso </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">responsable.</span></span></span></span></span></span></span></span></td>\n<td style=\"width: 34.1959%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">MAT.2.E.1.3. Gráficos </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">estadísticos sencillos (diagrama </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">de barras y pictogramas) para </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">representar datos seleccionando el más </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">conveniente, mediante </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">recursos tradicionales y </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">aplicaciones informáticas </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">sencillas.</span></span></span></span></span></span></span></span></td>\n<td style=\"width: 15.8965%; height: 33px; text-align: left;\">\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"></span></span><br /></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"></span></span><br /></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Pequeños grupos </span></span></span></span></span></span></span></span></p>\n<p><br /></p>\n</td>\n<td style=\"width: 12.939%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">2 sesiones</span></span></span></span></span></span></span></span></td>\n<td style=\"width: 16.9131%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Formularios de Google / </span></span></span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Formularios de Microsoft</span></span></span></span></span></span></span></span></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.963%; height: 33px;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">3. Recogida y registro de </span></span></span></span></span></span></span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">datos:</span></span></span></span></span></span></strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Realización de </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">encuestas y registro </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">automático de la </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">información.</span></span></span></span></span></span></span></span></td>\n<td style=\"width: 34.1959%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">MAT.2.E.1.2 Estrategias sencillas para la recogida, </span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">clasificación y organización de datos cualitativos o cuantitativos discretos en muestras pequeñas mediante calculadora y aplicaciones informáticas sencillas. Frecuencia absoluta: interpretación.</span></span></span></span></span></span></td>\n<td style=\"width: 15.8965%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Pequeños grupos  </span></span></span></span></span></span></td>\n<td style=\"width: 12.939%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">2 sesiones</span></span></span></span></span></span></td>\n<td style=\"width: 16.9131%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Tabletas / Ordenadores</span></span></span></span></span></span></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.963%; height: 33px;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">4. Organización de datos </span></span></span></span></span></span></span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">en tablas:</span></span></span></span></span></span></strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Clasificación y </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">organización de los datos </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">obtenidos en tablas </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">sencillas. </span></span></span></span></span></span></span></span><br /><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Representación gráfica e </span></span></span></span></span></span></span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">interpretación:</span></span></span></span></span></span></strong> </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Elaboración de gráficos de </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">barras y análisis de </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">resultados.</span></span></span></span></span></span></span></span></td>\n<td style=\"width: 34.1959%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">MAT.2.E.1.1. Gráficos estadísticos de la vida cotidiana (pictogramas, gráficas de barras, histogramas, etc.): lectura e interpretación.</span></span></span></span></span></span></td>\n<td style=\"width: 15.8965%; height: 33px; text-align: left;\">\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Pequeños grupos</span></span></span></span></span></span></p>\n<p><br /></p>\n</td>\n<td style=\"width: 12.939%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">3 sesiones</span></span></span></span></span></span></td>\n<td style=\"width: 16.9131%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Hojas de cálculo </span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">(Google Sheets / Excel) </span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Canva</span></span></span></span></span></span></td>\n</tr>\n<tr style=\"height: 33px;\">\n<td style=\"width: 19.963%; height: 33px;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">5. Elaboración y exposición </span></span></span></span></span></span></span></span></strong><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><strong><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">del producto final:</span></span></span></span></span></span></strong> </span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"> Creación de una </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">presentación digital y </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">exposición oral de </span></span></span></span></span></span></span></span><br /><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">conclusiones.</span></span></span></span></span></span></span></span></td>\n<td style=\"width: 34.1959%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">MAT.2.E.1.5. Comparación </span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">gráfica de dos conjuntos de </span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">datos para establecer </span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">relaciones y extraer </span></span></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">conclusiones.</span></span></span></span></span></span></td>\n<td style=\"width: 15.8965%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Pequeños grupos </span></span></span></span></span></span></td>\n<td style=\"width: 12.939%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">2 sesiones</span></span></span></span></span></span></td>\n<td style=\"width: 16.9131%; height: 33px; text-align: left;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Canva / PowerPoint</span></span></span></span></span></span></td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movlv638-z20blqer4</odePageId>
+  <odeParentPageId>page-movlv62v-ka323lwfq</odeParentPageId>
+  <pageName>Temporalización</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movlv638-z20blqer4</odePageId>
+      <odeBlockId>block-1778086837080-7ewwv6zw4</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movlv638-z20blqer4</odePageId>
+          <odeBlockId>block-1778086837080-7ewwv6zw4</odeBlockId>
+          <odeIdeviceId>idevice-1778086837079-ksdcgh6s7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Tarea7.1 (1)_page-0001.jpg" width="1366" height="965" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086837079-ksdcgh6s7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Tarea7.1 (1)_page-0001.jpg\" width=\"1366\" height=\"965\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movlv639-ocb19s0ao</odePageId>
+  <odeParentPageId>page-movlv62v-ka323lwfq</odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movlv639-ocb19s0ao</odePageId>
+      <odeBlockId>block-1778085759830-fcrturlef</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movlv639-ocb19s0ao</odePageId>
+          <odeBlockId>block-1778085759830-fcrturlef</odeBlockId>
+          <odeIdeviceId>idevice-1778085759829-1yzebw9ii</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En la Situación de Aprendizaje<strong> “Exploradores de datos: investigamos nuestro entorno cercano”</strong>, dirigida a 4º de Educación Primaria, el producto final consistirá en la elaboración de una presentación digital en la que el alumno expondrá los resultados de su investigación, incluyendo la recogida, organización, representación e interpretación de datos del entorno cercano.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Para el desarrollo de este producto final, las herramientas digitales que se utilizarán serán Google Forms, Google Sheets y Canva.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">El objetivo del uso de estas herramientas es favorecer el desarrollo de la competencia digital, así como la competencia matemática y lingüística, permitiendo al alumno recoger, analizar y comunicar datos de forma estructurada, visual y significativa.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">En primer lugar, Google Forms se empleará para la realización de encuestas digitales sencillas. Su uso resulta adecuado para el alumno de 4º de Primaria por su interfaz intuitiva, su accesibilidad y la posibilidad de automatizar la recogida de datos, lo que facilita el análisis posterior.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Posteriormente, los datos obtenidos se organizarán mediante Google Sheets, herramienta que permite la creación de tablas y gráficos de forma visual y progresiva. Esto favorece la comprensión de la representación de datos y el desarrollo del pensamiento matemático, ajustándose al nivel competencial del alumno con apoyo guiado.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Finalmente, Canva se utilizará para la elaboración de la presentación del producto final, permitiendo integrar gráficos, textos explicativos e imágenes de forma atractiva y creativa. Su versatilidad y facilidad de uso la convierten en una herramienta adecuada para la edad del alumno, además de fomentar la expresión digital de los aprendizajes.</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">La elección de estas herramientas se justifica por su carácter gratuito, su disponibilidad en el entorno educativo, su facilidad de uso y su adecuación al nivel competencial del alumno, así como por su potencial para favorecer un aprendizaje activo, cooperativo y basado en situaciones reales.</span></span><br /> <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778085759829-1yzebw9ii","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">En la Situación de Aprendizaje<strong> “Exploradores de datos: investigamos nuestro entorno cercano”</strong>, dirigida a 4º de Educación Primaria, el producto final consistirá en la elaboración de una presentación digital en la que el alumno expondrá los resultados de su investigación, incluyendo la recogida, organización, representación e interpretación de datos del entorno cercano.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Para el desarrollo de este producto final, las herramientas digitales que se utilizarán serán Google Forms, Google Sheets y Canva.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">El objetivo del uso de estas herramientas es favorecer el desarrollo de la competencia digital, así como la competencia matemática y lingüística, permitiendo al alumno recoger, analizar y comunicar datos de forma estructurada, visual y significativa.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">En primer lugar, Google Forms se empleará para la realización de encuestas digitales sencillas. Su uso resulta adecuado para el alumno de 4º de Primaria por su interfaz intuitiva, su accesibilidad y la posibilidad de automatizar la recogida de datos, lo que facilita el análisis posterior.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Posteriormente, los datos obtenidos se organizarán mediante Google Sheets, herramienta que permite la creación de tablas y gráficos de forma visual y progresiva. Esto favorece la comprensión de la representación de datos y el desarrollo del pensamiento matemático, ajustándose al nivel competencial del alumno con apoyo guiado.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Finalmente, Canva se utilizará para la elaboración de la presentación del producto final, permitiendo integrar gráficos, textos explicativos e imágenes de forma atractiva y creativa. Su versatilidad y facilidad de uso la convierten en una herramienta adecuada para la edad del alumno, además de fomentar la expresión digital de los aprendizajes.</span></span></p>\n<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">La elección de estas herramientas se justifica por su carácter gratuito, su disponibilidad en el entorno educativo, su facilidad de uso y su adecuación al nivel competencial del alumno, así como por su potencial para favorecer un aprendizaje activo, cooperativo y basado en situaciones reales.</span></span><br /> <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movlv639-s6xqs1g6f</odePageId>
+  <odeParentPageId>page-movlv62v-ka323lwfq</odeParentPageId>
+  <pageName>Herramientas</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movlv639-s6xqs1g6f</odePageId>
+      <odeBlockId>block-1778086917714-bf15o55rw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movlv639-s6xqs1g6f</odePageId>
+          <odeBlockId>block-1778086917714-bf15o55rw</odeBlockId>
+          <odeIdeviceId>idevice-1778086917713-suwxq0lc8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto se han utilizado diferentes herramientas digitales con el objetivo de facilitar la organización de contenidos, la creación de recursos educativos y la mejora de la experiencia de aprendizaje del alumnado. En concreto, se han empleado las plataformas Padlet y Symbaloo, ambas ampliamente utilizadas en el ámbito educativo por su versatilidad y facilidad de uso.</p>
+<ul>
+<li><strong>Padlet</strong></li>
+</ul>
+<p>Padlet se ha utilizado como muro colaborativo digital en el que se han compartido recursos, ideas y materiales relacionados con el proyecto. Esta herramienta permite a los usuarios publicar contenidos en diferentes formatos (texto, imágenes, enlaces, vídeos, etc.), lo que favorece la interacción y la participación del alumnado.</p>
+<p>En este proyecto, Padlet ha servido como espacio centralizado para recopilar información, facilitar el acceso a los recursos y fomentar el aprendizaje colaborativo. Además, su diseño intuitivo permite que el alumnado pueda participar de forma sencilla, incluso con distintos niveles de competencia digital.</p>
+<p>Contenido incluido:<br />• Vídeos explicativos sobre datos y gráficos<br />• Tutoriales sencillos sobre encuestas<br />• Ejemplos de gráficos de barras<br />• Recursos interactivos<br />• Guías paso a paso para usar herramientas digitales</p>
+<p>➢ Objetivo:</p>
+<p>Facilitar al alumnado todos los recursos necesarios para desarrollar su proyecto de<br />investigación de forma autónoma y guiada.<br />➢ Enlace</p>
+<p>https://padlet.com/mgilmor0702/recursos-58xzxqepccjvvab2</p>
+<p><br /></p>
+<ul>
+<li><strong>Symbaloo</strong></li>
+</ul>
+<p>Symbaloo se ha empleado como herramienta de organización de recursos digitales mediante la creación de un “webmix”. Esta plataforma permite agrupar enlaces a páginas web, documentos y otros recursos educativos en un entorno visual tipo tablero, lo que facilita la navegación y el acceso rápido a la información.</p>
+<p>En el contexto de este proyecto, Symbaloo ha sido utilizado como punto de partida para el acceso a los distintos materiales y herramientas digitales, ayudando al alumnado a estructurar mejor la información y a trabajar de forma más autónoma.</p>
+<p>➢ Objetivo:<br />Compartir una selección de herramientas útiles para otros docentes que quieran trabajar<br />el tratamiento de datos y la competencia digital en Primaria.</p>
+<p>➢ Enlace<br />https://www.symbaloo.com/shared/AAAAAf5k8g4AA41-5EZAig==</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086917713-suwxq0lc8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto se han utilizado diferentes herramientas digitales con el objetivo de facilitar la organización de contenidos, la creación de recursos educativos y la mejora de la experiencia de aprendizaje del alumnado. En concreto, se han empleado las plataformas Padlet y Symbaloo, ambas ampliamente utilizadas en el ámbito educativo por su versatilidad y facilidad de uso.</p>\n<ul>\n<li><strong>Padlet</strong></li>\n</ul>\n<p>Padlet se ha utilizado como muro colaborativo digital en el que se han compartido recursos, ideas y materiales relacionados con el proyecto. Esta herramienta permite a los usuarios publicar contenidos en diferentes formatos (texto, imágenes, enlaces, vídeos, etc.), lo que favorece la interacción y la participación del alumnado.</p>\n<p>En este proyecto, Padlet ha servido como espacio centralizado para recopilar información, facilitar el acceso a los recursos y fomentar el aprendizaje colaborativo. Además, su diseño intuitivo permite que el alumnado pueda participar de forma sencilla, incluso con distintos niveles de competencia digital.</p>\n<p>Contenido incluido:<br />• Vídeos explicativos sobre datos y gráficos<br />• Tutoriales sencillos sobre encuestas<br />• Ejemplos de gráficos de barras<br />• Recursos interactivos<br />• Guías paso a paso para usar herramientas digitales</p>\n<p>➢ Objetivo:</p>\n<p>Facilitar al alumnado todos los recursos necesarios para desarrollar su proyecto de<br />investigación de forma autónoma y guiada.<br />➢ Enlace</p>\n<p>https://padlet.com/mgilmor0702/recursos-58xzxqepccjvvab2</p>\n<p><br /></p>\n<ul>\n<li><strong>Symbaloo</strong></li>\n</ul>\n<p>Symbaloo se ha empleado como herramienta de organización de recursos digitales mediante la creación de un “webmix”. Esta plataforma permite agrupar enlaces a páginas web, documentos y otros recursos educativos en un entorno visual tipo tablero, lo que facilita la navegación y el acceso rápido a la información.</p>\n<p>En el contexto de este proyecto, Symbaloo ha sido utilizado como punto de partida para el acceso a los distintos materiales y herramientas digitales, ayudando al alumnado a estructurar mejor la información y a trabajar de forma más autónoma.</p>\n<p>➢ Objetivo:<br />Compartir una selección de herramientas útiles para otros docentes que quieran trabajar<br />el tratamiento de datos y la competencia digital en Primaria.</p>\n<p>➢ Enlace<br />https://www.symbaloo.com/shared/AAAAAf5k8g4AA41-5EZAig==</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movlv63a-a5jai5esn</odePageId>
+  <odeParentPageId>page-movlv62v-ka323lwfq</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movlv63a-a5jai5esn</odePageId>
+      <odeBlockId>block-1778086872762-i6w9stg4r</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movlv63a-a5jai5esn</odePageId>
+          <odeBlockId>block-1778086872762-i6w9stg4r</odeBlockId>
+          <odeIdeviceId>idevice-1778086872761-fownsq0a6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación se plantea como un proceso <strong>continuo</strong>, <strong>formativo</strong> y orientado a la <strong>mejora </strong><strong>del aprendizaje</strong> del alumnado. Para ello, se emplean distintos instrumentos que permiten recoger evidencias objetivas, ofrecer retroalimentación y ajustar la enseñanza a las necesidades detectadas.<br />En este caso, se proponen dos instrumentos de evaluación principales:<br />• Una rúbrica de evaluación<br />• Una diana de evaluación<br />Ambos instrumentos permiten combinar la evaluación del docente con la participación activa del alumnado en su propio proceso de aprendizaje.<br /></p>
+<p><strong>1. Rúbrica de evaluación</strong></p>
+<p>La rúbrica es un instrumento de evaluación que establece criterios claros y niveles de logro graduados para valorar el desempeño del alumnado en una secuencia de tareas. Permite objetivar la evaluación y hacerla transparente en todas las fases del proceso. La rúbrica se utilizará como instrumento principal de evaluación del proceso y del producto final en las diferentes tareas de la SdA.</p>
+<ul>
+<li>¿Qué se evalúa?</li>
+</ul>
+<p>A través de la rúbrica se valorarán aspectos clave del aprendizaje:<br />• El planteamiento del problema y formulación de preguntas<br />• El uso de herramientas digitales (Google Forms, hojas de cálculo, Canva, etc.)<br />• La recogida, organización e interpretación de datos<br />• La elaboración del producto final<br />• La exposición oral<br />Cada uno de estos aspectos está alineado con los criterios de evaluación del área de Matemáticas, especialmente aquellos relacionados con la recogida, representación e interpretación de datos.</p>
+<ul>
+<li>¿Cuándo se utiliza?</li>
+</ul>
+<p>➢ Durante todo el proceso (evaluación continua)<br />➢ En momentos clave de cada tarea<br />➢ Especialmente en la evaluación del producto final<br />Además, se compartirá previamente con el alumnado para favorecer la transparencia y la autorregulación.</p>
+<ul>
+<li>¿Cómo se obtienen los datos?<br /></li>
+</ul>
+<p>Los datos se recogerán a través de:<br />➢ Observación directa del trabajo en el aula<br />➢ Análisis de los productos digitales elaborados<br />➢ Revisión de las encuestas, tablas y gráficos<br />➢ Evaluación de la exposición oral</p>
+<ul>
+<li>¿Cómo se analizan los datos?</li>
+</ul>
+<p>Los resultados obtenidos en la rúbrica permitirán:<br />➢ Identificar el nivel de logro de cada alumno/a en cada criterio<br />➢ Detectar dificultades comunes (por ejemplo, en la interpretación de gráficos o uso de herramientas digitales)<br />➢ Analizar el progreso a lo largo de la SdA</p>
+<ul>
+<li>¿Para qué sirven estos datos?</li>
+</ul>
+<p>Más allá de la calificación, los datos permiten:<br />➢ Ajustar la intervención docente (refuerzo o ampliación)<br />➢ Ofrecer feedback individualizado<br />➢ Mejorar futuras propuestas didácticas<br />➢ Detectar necesidades específicas del alumnado</p>
+<p><br />Se lleva a cabo una asignación de niveles de logro a cada criterio:</p>
+<ul>
+<li>1 = Iniciado</li>
+<li>2 = En desarrollo</li>
+<li>3 = Adecuado</li>
+<li>4 = Avanzado</li>
+</ul>
+<p>La rúbrica facilita un feedback claro y estructurado, ya que el alumnado puede ver qué ha hecho bien, qué debe mejorar y/o cómo puede mejorar. Esto fomenta la autorregulación del aprendizaje.<img src="{{context_path}}/content/resources/Literary Analysis Essay Writing Printable Marking Rubric in Red Blue Simple Style (2).png" width="1366" height="966" alt="" /><img src="{{context_path}}/content/resources/Literary Analysis Essay Writing Printable Marking Rubric in Red Blue Simple Style (1).png" width="1366" height="966" alt="" /></p>
+<p><strong>2. Diana de evaluación</strong><br />La diana de evaluación es un instrumento gráfico de autoevaluación y coevaluación que permite valorar el desempeño del alumnado en la elaboración del producto final y su exposición oral. Cada criterio se representa en un eje de la diana, y el alumnado se sitúa en un nivel del 1 (centro) al 4 (exterior).</p>
+<ul>
+<li>¿Qué se evalúa?</li>
+</ul>
+<p>A través de la diana se valoran aspectos más relacionados con el proceso y las<br />competencias personales:<br />➢ Claridad en la exposición oral<br />➢ Organización del contenido<br />➢ Uso de herramientas digitales<br />➢ Trabajo en equipo<br />➢ Uso e interpretación de datos</p>
+<ul>
+<li>¿Cuándo se utiliza?</li>
+</ul>
+<p>➢ Al finalizar el producto final y la exposición<br />➢ También puede utilizarse como reflexión final del proyecto</p>
+<ul>
+<li>¿Cómo se obtienen los datos?<br /></li>
+</ul>
+<p>Los datos se obtienen mediante:<br />➢ Autoevaluación del alumnado<br />➢ Coevaluación entre iguales<br />Cada alumno/a marca su nivel en los diferentes ejes de la diana.</p>
+<ul>
+<li>Cómo se analizan los datos?<br /></li>
+</ul>
+<p>➢ Se comparan las valoraciones del alumnado con la del docente<br />➢ Se detectan posibles diferencias entre percepción y desempeño real<br />➢ Se analizan tendencias del grupo (por ejemplo, si todos se perciben bajos en exposición oral)</p>
+<ul>
+<li>¿Cómo se tratan las posibles variables?<br /></li>
+</ul>
+<p>Al tratarse de un instrumento subjetivo, se tendrán en cuenta:<br />➢ Posibles sobrevaloraciones o infravaloraciones del alumnado<br />➢ Influencia del trabajo en grupo<br />➢ Diferencias en la implicación individual</p>
+<p><br />Para ello, la diana se complementa con:<br />o La rúbrica<br />o La observación directa<br />o Evidencias del trabajo realizado</p>
+<ul>
+<li>¿Para qué sirven estos datos?</li>
+</ul>
+<p>➢ Fomentar la reflexión y la metacognición<br />➢ Desarrollar la capacidad de autoevaluación<br />➢ Mejorar la implicación del alumnado<br />➢ Promover la mejora continua</p>
+<p><br />Los niveles se valoración son:<br />• 1 = Iniciado (dificultades importantes)<br />• 2 = En desarrollo (logro parcial con apoyo)<br />• 3 = Adecuado (logro correcto y autónomo)<br />• 4 = Avanzado (desempeño excelente y autónomo)</p>
+<p><br />El alumnado completa la diana tras la exposición final. También puede realizarse coevaluación entre compañeros y se compara con la valoración del docente para generar reflexión.<br />La diana se presenta como un círculo dividido en sectores. El alumnado marca su nivel del 1 al 4 en cada eje, formando una figura que permite visualizar de forma clara su desempeño global.<br />Este análisis se complementa con la observación del docente para ofrecer una retroalimentación más completa.<br /></p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" /></p>
+<p>La combinación de la <strong>rúbrica</strong> y la <strong>diana de evaluación</strong> permite abordar la evaluación desde dos perspectivas complementarias:</p>
+<ul>
+<li>La rúbrica aporta objetividad y criterios claros sobre el producto final.</li>
+<li>La diana fomenta la reflexión, la metacognición y la implicación del alumnado en su aprendizaje.</li>
+</ul>
+<p>Juntas, contribuyen a una evaluación más competencial, formativa y centrada en la mejora continua.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778086872761-fownsq0a6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación se plantea como un proceso <strong>continuo</strong>, <strong>formativo</strong> y orientado a la <strong>mejora </strong><strong>del aprendizaje</strong> del alumnado. Para ello, se emplean distintos instrumentos que permiten recoger evidencias objetivas, ofrecer retroalimentación y ajustar la enseñanza a las necesidades detectadas.<br />En este caso, se proponen dos instrumentos de evaluación principales:<br />• Una rúbrica de evaluación<br />• Una diana de evaluación<br />Ambos instrumentos permiten combinar la evaluación del docente con la participación activa del alumnado en su propio proceso de aprendizaje.<br /></p>\n<p><strong>1. Rúbrica de evaluación</strong></p>\n<p>La rúbrica es un instrumento de evaluación que establece criterios claros y niveles de logro graduados para valorar el desempeño del alumnado en una secuencia de tareas. Permite objetivar la evaluación y hacerla transparente en todas las fases del proceso. La rúbrica se utilizará como instrumento principal de evaluación del proceso y del producto final en las diferentes tareas de la SdA.</p>\n<ul>\n<li>¿Qué se evalúa?</li>\n</ul>\n<p>A través de la rúbrica se valorarán aspectos clave del aprendizaje:<br />• El planteamiento del problema y formulación de preguntas<br />• El uso de herramientas digitales (Google Forms, hojas de cálculo, Canva, etc.)<br />• La recogida, organización e interpretación de datos<br />• La elaboración del producto final<br />• La exposición oral<br />Cada uno de estos aspectos está alineado con los criterios de evaluación del área de Matemáticas, especialmente aquellos relacionados con la recogida, representación e interpretación de datos.</p>\n<ul>\n<li>¿Cuándo se utiliza?</li>\n</ul>\n<p>➢ Durante todo el proceso (evaluación continua)<br />➢ En momentos clave de cada tarea<br />➢ Especialmente en la evaluación del producto final<br />Además, se compartirá previamente con el alumnado para favorecer la transparencia y la autorregulación.</p>\n<ul>\n<li>¿Cómo se obtienen los datos?<br /></li>\n</ul>\n<p>Los datos se recogerán a través de:<br />➢ Observación directa del trabajo en el aula<br />➢ Análisis de los productos digitales elaborados<br />➢ Revisión de las encuestas, tablas y gráficos<br />➢ Evaluación de la exposición oral</p>\n<ul>\n<li>¿Cómo se analizan los datos?</li>\n</ul>\n<p>Los resultados obtenidos en la rúbrica permitirán:<br />➢ Identificar el nivel de logro de cada alumno/a en cada criterio<br />➢ Detectar dificultades comunes (por ejemplo, en la interpretación de gráficos o uso de herramientas digitales)<br />➢ Analizar el progreso a lo largo de la SdA</p>\n<ul>\n<li>¿Para qué sirven estos datos?</li>\n</ul>\n<p>Más allá de la calificación, los datos permiten:<br />➢ Ajustar la intervención docente (refuerzo o ampliación)<br />➢ Ofrecer feedback individualizado<br />➢ Mejorar futuras propuestas didácticas<br />➢ Detectar necesidades específicas del alumnado</p>\n<p><br />Se lleva a cabo una asignación de niveles de logro a cada criterio:</p>\n<ul>\n<li>1 = Iniciado</li>\n<li>2 = En desarrollo</li>\n<li>3 = Adecuado</li>\n<li>4 = Avanzado</li>\n</ul>\n<p>La rúbrica facilita un feedback claro y estructurado, ya que el alumnado puede ver qué ha hecho bien, qué debe mejorar y/o cómo puede mejorar. Esto fomenta la autorregulación del aprendizaje.<img src=\"{{context_path}}/content/resources/Literary Analysis Essay Writing Printable Marking Rubric in Red Blue Simple Style (2).png\" width=\"1366\" height=\"966\" alt=\"\" /><img src=\"{{context_path}}/content/resources/Literary Analysis Essay Writing Printable Marking Rubric in Red Blue Simple Style (1).png\" width=\"1366\" height=\"966\" alt=\"\" /></p>\n<p><strong>2. Diana de evaluación</strong><br />La diana de evaluación es un instrumento gráfico de autoevaluación y coevaluación que permite valorar el desempeño del alumnado en la elaboración del producto final y su exposición oral. Cada criterio se representa en un eje de la diana, y el alumnado se sitúa en un nivel del 1 (centro) al 4 (exterior).</p>\n<ul>\n<li>¿Qué se evalúa?</li>\n</ul>\n<p>A través de la diana se valoran aspectos más relacionados con el proceso y las<br />competencias personales:<br />➢ Claridad en la exposición oral<br />➢ Organización del contenido<br />➢ Uso de herramientas digitales<br />➢ Trabajo en equipo<br />➢ Uso e interpretación de datos</p>\n<ul>\n<li>¿Cuándo se utiliza?</li>\n</ul>\n<p>➢ Al finalizar el producto final y la exposición<br />➢ También puede utilizarse como reflexión final del proyecto</p>\n<ul>\n<li>¿Cómo se obtienen los datos?<br /></li>\n</ul>\n<p>Los datos se obtienen mediante:<br />➢ Autoevaluación del alumnado<br />➢ Coevaluación entre iguales<br />Cada alumno/a marca su nivel en los diferentes ejes de la diana.</p>\n<ul>\n<li>Cómo se analizan los datos?<br /></li>\n</ul>\n<p>➢ Se comparan las valoraciones del alumnado con la del docente<br />➢ Se detectan posibles diferencias entre percepción y desempeño real<br />➢ Se analizan tendencias del grupo (por ejemplo, si todos se perciben bajos en exposición oral)</p>\n<ul>\n<li>¿Cómo se tratan las posibles variables?<br /></li>\n</ul>\n<p>Al tratarse de un instrumento subjetivo, se tendrán en cuenta:<br />➢ Posibles sobrevaloraciones o infravaloraciones del alumnado<br />➢ Influencia del trabajo en grupo<br />➢ Diferencias en la implicación individual</p>\n<p><br />Para ello, la diana se complementa con:<br />o La rúbrica<br />o La observación directa<br />o Evidencias del trabajo realizado</p>\n<ul>\n<li>¿Para qué sirven estos datos?</li>\n</ul>\n<p>➢ Fomentar la reflexión y la metacognición<br />➢ Desarrollar la capacidad de autoevaluación<br />➢ Mejorar la implicación del alumnado<br />➢ Promover la mejora continua</p>\n<p><br />Los niveles se valoración son:<br />• 1 = Iniciado (dificultades importantes)<br />• 2 = En desarrollo (logro parcial con apoyo)<br />• 3 = Adecuado (logro correcto y autónomo)<br />• 4 = Avanzado (desempeño excelente y autónomo)</p>\n<p><br />El alumnado completa la diana tras la exposición final. También puede realizarse coevaluación entre compañeros y se compara con la valoración del docente para generar reflexión.<br />La diana se presenta como un círculo dividido en sectores. El alumnado marca su nivel del 1 al 4 en cada eje, formando una figura que permite visualizar de forma clara su desempeño global.<br />Este análisis se complementa con la observación del docente para ofrecer una retroalimentación más completa.<br /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" /></p>\n<p>La combinación de la <strong>rúbrica</strong> y la <strong>diana de evaluación</strong> permite abordar la evaluación desde dos perspectivas complementarias:</p>\n<ul>\n<li>La rúbrica aporta objetividad y criterios claros sobre el producto final.</li>\n<li>La diana fomenta la reflexión, la metacognición y la implicación del alumnado en su aprendizaje.</li>\n</ul>\n<p>Juntas, contribuyen a una evaluación más competencial, formativa y centrada en la mejora continua.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movlv63c-n9d1s1tvr</odePageId>
+  <odeParentPageId>page-movlv62v-ka323lwfq</odeParentPageId>
+  <pageName>Página de créditos </pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página de créditos </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página de créditos </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movlv63c-n9d1s1tvr</odePageId>
+      <odeBlockId>block-1778091786710-eavu66jk1</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movlv63c-n9d1s1tvr</odePageId>
+          <odeBlockId>block-1778091786710-eavu66jk1</odeBlockId>
+          <odeIdeviceId>idevice-1778091786709-707fyn6q2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Autoría:</strong> Marina Gil Moreno</li>
+</ul>
+<p></p>
+<ul>
+<li><strong>Descripción del recurso:</strong> Este proyecto consiste en una propuesta didáctica digital orientada al desarrollo de la competencia digital del alumnado mediante el uso de herramientas colaborativas y de organización de recursos educativos.</li>
+</ul>
+<p></p>
+<ul>
+<li><strong>Licencia de uso</strong>: El recurso se comparte bajo una licencia abierta de uso educativo, permitiendo su reutilización y adaptación por parte de otros docentes siempre que se cite la autoría original. </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778091786709-707fyn6q2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Autoría:</strong> Marina Gil Moreno</li>\n</ul>\n<p></p>\n<ul>\n<li><strong>Descripción del recurso:</strong> Este proyecto consiste en una propuesta didáctica digital orientada al desarrollo de la competencia digital del alumnado mediante el uso de herramientas colaborativas y de organización de recursos educativos.</li>\n</ul>\n<p></p>\n<ul>\n<li><strong>Licencia de uso</strong>: El recurso se comparte bajo una licencia abierta de uso educativo, permitiendo su reutilización y adaptación por parte de otros docentes siempre que se cite la autoría original. </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
